@@ -1,7 +1,6 @@
 # kadai_tomoaki_magome
 for internship
 
-Name
 ====
 
 Overview
