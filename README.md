@@ -5,24 +5,18 @@ for internship
 
 Overview
 
-## Description
+## 名前
+馬込 智瑛
+まごめ ともあき
 
-## Demo
+## 出身
+神奈川県川崎市
+首都大学東京 電子情報工学専攻
+音響・機械学習 の研究をしています
 
-## VS. 
+## 趣味
+作曲（EDM, オーケストラ, ゲーム音楽）
+動物が好きです
 
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
+## プログラミング経験
+C, MATLAB, Python, Unity周辺
