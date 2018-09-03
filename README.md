@@ -1,10 +1,6 @@
 # kadai_tomoaki_magome
 for internship
 
-====
-
-Overview
-
 ## 名前
 馬込 智瑛
 まごめ ともあき
